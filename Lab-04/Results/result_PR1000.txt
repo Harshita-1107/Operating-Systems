@@ -1,0 +1,30 @@
+NOI: 4000 PRIORITY: 5 SLEEPPROB: 0.700000 SLEEPTIME: 3
+PID: 20921
+Response Time: 59.000000
+Total Waiting Time: 45672.000000
+Turnaround Time: 3546.000000
+
+NOI: 10000 PRIORITY: 10 SLEEPPROB: 0.300000 SLEEPTIME: 1
+PID: 20910
+Response Time: 99.000000
+Total Waiting Time: 2552.000000
+Turnaround Time: 758.000000
+
+NOI: 10000 PRIORITY: 10 SLEEPPROB: 0.300000 SLEEPTIME: 1
+PID: 20913
+Response Time: 66.000000
+Total Waiting Time: 4195.000000
+Turnaround Time: 777.000000
+
+NOI: 4000 PRIORITY: 5 SLEEPPROB: 0.700000 SLEEPTIME: 3
+PID: 20917
+Response Time: 58.000000
+Total Waiting Time: 23901.000000
+Turn-around Time: 2658.000000
+
+
+Average Response Time: 70.500000 usec
+
+Average Waiting Time: 19080.000000 usec
+
+Average Turnaround Time: 1934.750000 usec

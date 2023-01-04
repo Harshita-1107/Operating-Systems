@@ -1,0 +1,21 @@
+#Do not edit the contents of this file.
+CC = gcc
+CFLAGS = -Werror -Wall -g -std=gnu99
+LDFLAGS = -lrt -lpthread
+TARGET = Bankers_Algo
+OBJFILES = Bankers_Algo.o
+
+all:
+	rm -f $(OBJFILES) $(TARGET) *~ 
+	make $(TARGET)
+
+Bankers_Algo: Bankers_Algo.c
+	$(CC) $(CFLAGS) -o Bankers_Algo Bankers_Algo.c $(LDFLAGS)
+
+test1: Bankers_Algo
+	./Bankers_Algo 10 10 10 10
+test2: Bankers_Algo
+	./Bankers_Algo 5 5 5 5
+	
+clean:
+	rm -f $(OBJFILES) $(TARGET) *~ 

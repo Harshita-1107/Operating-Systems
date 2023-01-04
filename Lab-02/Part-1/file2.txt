@@ -1,0 +1,7 @@
+hELLO
+tHIS IS os LAB.
+i AM DOING QUESTION 1 OF LAB 02
+tHIS IS CONFUSING.
+2222222222222
+
+The count of non-alphabetic characters is - 16

@@ -1,0 +1,30 @@
+NOI: 4000 PRIORITY: 5 SLEEPPROB: 0.700000 SLEEPTIME: 3
+PID: 16944
+Response Time: 0 sec 62 usec
+Total Waiting Time: 0 sec 91639 usec
+Turn-aroud Time: 2214 sec 247882 usec
+
+NOI: 10000 PRIORITY: 10 SLEEPPROB: 0.300000 SLEEPTIME: 1
+PID: 16940
+Response Time: 0 sec 6156 usec
+Total Waiting Time: 0 sec 192493 usec
+Turn-aroud Time: 1465 sec 443963 usec
+
+NOI: 4000 PRIORITY: 5 SLEEPPROB: 0.700000 SLEEPTIME: 3
+PID: 16947
+Response Time: 0 sec 53 usec
+Total Waiting Time: 0 sec 52650 usec
+Turn-aroud Time: 1638 sec 198472 usec
+
+NOI: 10000 PRIORITY: 10 SLEEPPROB: 0.300000 SLEEPTIME: 1
+PID: 16937
+Response Time: 0 sec 198 usec
+Total Waiting Time: 0 sec 200341 usec
+Turn-aroud Time: 1437 sec 435299 usec
+
+
+Average Response Time: 0.000000 sec  1617.250000 usec
+
+Average Waiting Time: 0.000000 sec  134280.750000 usec
+
+Average Turn-aroud Time: 1688.750000 sec  81404.000000 usec
